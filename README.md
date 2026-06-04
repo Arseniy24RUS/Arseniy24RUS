@@ -3,7 +3,7 @@
 [English](#english) · [Русский](#русский)
 
 [![Website](https://img.shields.io/badge/website-sitkovskiy.ru-informational)](https://sitkovskiy.ru/)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--xxxx--xxxx-green)](https://orcid.org/)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--8725--6580-green)](https://orcid.org/0000-0002-8725-6580)
 [![Research software](https://img.shields.io/badge/focus-research%20software-blue)](https://github.com/Arseniy24RUS)
 [![Code: MIT](https://img.shields.io/badge/code-MIT-blue.svg)](LICENSE)
 [![Data/docs: CC BY 4.0](https://img.shields.io/badge/data%20%26%20docs-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
